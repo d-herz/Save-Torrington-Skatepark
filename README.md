@@ -31,7 +31,11 @@ Overall, the project was succesful in gathering over 700 signatures and raising 
 
 
 <p align="center">
-  <img src="https://github.com/d-herz/family-guy-quotes-client/blob/main/fg-readme.gif" alt="animated" />
+  <img src="https://github.com/d-herz/Save-Torrington-Skatepark/blob/main/readmegif.gif" alt="animated" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/d-herz/Save-Torrington-Skatepark/blob/main/Skatpark_Flyer.pdf" alt="animated" />
 </p>
 
 
