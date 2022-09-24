@@ -36,7 +36,7 @@ Overall, the project was succesful in gathering over 700 signatures and raising 
 
 <h4 align="center">The Flyer:</h4>
 <p align="center">
-  <img src="https://github.com/d-herz/Save-Torrington-Skatepark/blob/main/flyer.png" alt="flyer" width="600" height="auto" />
+  <img src="https://github.com/d-herz/Save-Torrington-Skatepark/blob/main/flyer1.png" alt="flyer" width="600" height="auto" />
 </p>
 
 <h4 align="center">The Petition:</h4>
