@@ -8,9 +8,15 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-I was contracted to create this website by a group of concerned local residents who were attempting to raise awareness and garner petition signatures in order to save and improve the town's only skatepark facility.
-I designed the full website and created the petition on <a href="https://chng.it/VXySGFXB"> Change.org</a>. As a skatepark enthusiast myself, I was gratified to be able to lend my skills to a grassroots cause.  
+A local group of concerned resident were attempting to raise awareness over the fate of their town's sole skatepark facility. They reached out to me inquiring about creating a website and a petition for gathering signatures. As a grassroots cause, the budget was limited but the need was great. I was happy to lend my services.</p>
+<p align="left">
+The services I provided included designing and setting up hosting for the website, purchasing the domain-name, and setting up the petition on <a href="https://chng.it/VXySGFXB"> Change.org</a>. I was also responsible for the wording in the petition, and as part of our agreement I created a basic PDF flyer for cavassing purposes. 
 </p>
+
+<p align="left">
+Overall, the project was succesful in gathering over 700 signatures and raising awareness as the website was shared through numerous social media outlets.
+</p>
+
 
 <h3 align="left">Quick facts about this project:</h3>
 <p align="left">
@@ -24,16 +30,19 @@ I designed the full website and created the petition on <a href="https://chng.it
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/d-herz/family-guy-quotes-client/blob/main/fg-readme.gif" alt="animated" />
+</p>
 
+
+<!----- 
 <h3 align="left">I've recently added:</h3>
 <p align="left">
-
 <ul>
 <li> Stay tuned for more updates! </li>
-
-<!----- <li> </li> ---->
 </ul>
 </p>
+---->
 
 
 <h3 align="left">Languages and Tools Used to Create this Project:</h3>
