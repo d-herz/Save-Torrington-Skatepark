@@ -8,7 +8,7 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-A local group of concerned resident were attempting to raise awareness over the fate of their town's sole skatepark facility. They reached out to me inquiring about creating a website and a petition for gathering signatures. As a grassroots cause, the budget was limited but the need was great. I was happy to lend my services.</p>
+A local group of concerned residents were attempting to raise awareness over the fate of their town's sole skatepark facility. They reached out to me inquiring about creating a website and a petition for gathering signatures. As a grassroots cause, the budget was limited but the need was great. I was happy to lend my services.</p>
 <p align="left">
 The services I provided included designing and setting up hosting for the website, purchasing the domain-name, and setting up the petition on <a href="https://chng.it/VXySGFXB"> Change.org</a>. I was also responsible for the wording in the petition, and as part of our agreement I created a basic PDF flyer for cavassing purposes. 
 </p>
