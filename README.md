@@ -8,13 +8,11 @@
 
 <h3 align="left">About this project:</h3>
 <p align="left">
-A local group of concerned residents were attempting to raise awareness over the fate of their town's sole skatepark facility. They reached out to me inquiring about creating a website and a petition for gathering signatures. As a grassroots cause, the budget was limited but the need was great. I was happy to lend my services.</p>
-<p align="left">
-The services I provided included designing and setting up hosting for the website, purchasing the domain-name, and setting up the petition on <a href="https://chng.it/VXySGFXB"> Change.org</a>. I was also responsible for the wording in the petition, and as part of our agreement I created a basic PDF flyer for cavassing purposes. 
+A static landing page commissioned by a local group of concerned skatepark enthusiasts. This project included building the website and assisting with creating an online petition for community signatures.
 </p>
 
 <p align="left">
-Overall, the project was succesful in gathering over 700 signatures and raising awareness as the website was shared through numerous social media outlets.
+The project, which was shared repeatedly through numerous social media outlets, was successful in gathering over 700 signatures and raising enough awareness to help secure plans for a brand new skatepark in the community.
 </p>
 
 
